@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
-namespace librarydatab.Models;
+namespace RestFull.Models;
 
 public partial class Book
 {
@@ -14,5 +15,7 @@ public partial class Book
     public int AuthorId { get; set; }
 
     public int CategoryId { get; set; }
-
+    
+   
 }
+

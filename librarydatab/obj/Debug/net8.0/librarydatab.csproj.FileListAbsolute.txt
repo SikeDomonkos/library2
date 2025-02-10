@@ -25,8 +25,6 @@ C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\Microsoft.
 C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\MySqlConnector.dll
-C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

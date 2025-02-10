@@ -1,0 +1,6 @@
+@librarydatab_HostAddress = http://localhost:5127
+
+GET {{librarydatab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

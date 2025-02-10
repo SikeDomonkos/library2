@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("librarydatab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d61ed55ed63328666e5f84ee5c6cbacb0fc9a3b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("librarydatab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("librarydatab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

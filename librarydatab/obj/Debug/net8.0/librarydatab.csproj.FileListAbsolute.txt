@@ -134,3 +134,5 @@ C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\runtimes\w
 C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\obj\Debug\net8.0\librarydatab.sourcelink.json
+C:\Users\Tanulo\Desktop\PD\librarydatab\librarydatab\bin\Debug\net8.0\libman.json
